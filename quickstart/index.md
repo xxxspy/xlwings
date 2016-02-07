@@ -9,7 +9,7 @@ title: "Quickstart"
 
 The easiest way to install xlwings is via the command prompt and pip:
 
-```console
+```shell
 $ pip install xlwings
 ```
 
@@ -75,7 +75,7 @@ plot.show('Plot1')
 If, for example, you want to fill your spreadsheet with standard normally distributed random numbers, your VBA code
 is just one line:
 
-```vbnet
+```vb
 Sub RandomNumbers()
     RunPython ("import mymodule; mymodule.rand_numbers()")
 End Sub

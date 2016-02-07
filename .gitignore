@@ -13,6 +13,7 @@ logfiles
 
 # Jekyll
 _site
+Gemfile.lock
 
 # Sphinx
 _build
