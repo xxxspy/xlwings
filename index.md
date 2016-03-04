@@ -22,11 +22,11 @@ box: |
 
 ## Replace your VBA code with Python, a powerful yet easy-to-use programming language that is highly suited for numerical analysis. Supports Windows & Mac!
 
-#### Latest Release v0.6.4 (Jan 6, 2016): New quickstart command! see [release notes][] for details.
+#### Latest Release v0.7.0 (March 4, 2016): New converters: e.g. use DataFrames from UDFs and Range objects! see [release notes][] for details.
 
 #### Shape the future of xlwings: <a href="https://zoomeranalytics.uservoice.com/forums/269851-xlwings" class="alert-link">xlwings feature requests</a>.
 
-[release notes]: http://docs.xlwings.org/en/latest/whatsnew.html
+[release notes]: http://docs.xlwings.org/en/stable/whatsnew.html
 [watch!]: https://twitter.com/ZoomerAnalytics/status/664159348822835200
 
 <div class="row">
@@ -41,5 +41,5 @@ box: |
 
 **Note**: The video has been made for v0.1.0 and is now incorrect in two places:
 
-* The line `In [24]` should now read: `Range('A2', wkb=wb, asarray=True).table.value`
+* The line `In [24]` should now read: `Range('A2', wkb=wb).options(np.array, expand='table').value`
 * At minute 4.47: Line 4 should be replaced with `wb = Workbook.caller()` and moved within the function definition.
