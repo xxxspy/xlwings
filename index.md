@@ -24,7 +24,9 @@ box: |
 
 #### Latest Release v0.7.0 (March 4, 2016): New converters: e.g. use DataFrames from UDFs and Range objects! see [release notes][] for details.
 
-#### Shape the future of xlwings: <a href="https://zoomeranalytics.uservoice.com/forums/269851-xlwings" class="alert-link">xlwings feature requests</a>.
+#### Watch <a href="https://zoomeranalytics.wistia.com/medias/ovf3k3u4w9" target="_blank">this 2-min video</a> to see UDFs with DataFrames in action!
+
+#### Shape the future of xlwings: <a href="https://zoomeranalytics.uservoice.com/forums/269851-xlwings" target="_blank">xlwings feature requests</a>.
 
 [release notes]: http://docs.xlwings.org/en/stable/whatsnew.html
 [watch!]: https://twitter.com/ZoomerAnalytics/status/664159348822835200
@@ -39,7 +41,7 @@ box: |
     </div>
 </div>
 
-**Note**: The video has been made for v0.1.0 and is now incorrect in two places:
+**Note**: The video has been made for v0.1.0 and is now outdated in various places, amongst them are:
 
 * The line `In [24]` should now read: `Range('A2', wkb=wb).options(np.array, expand='table').value`
 * At minute 4.47: Line 4 should be replaced with `wb = Workbook.caller()` and moved within the function definition.
