@@ -3,8 +3,6 @@ layout: page
 title: "Examples"
 ---
 
-## Examples
-
 ### Instructions
 
 1. Download the zip-file

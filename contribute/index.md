@@ -3,8 +3,6 @@ layout: page
 title: "Contribute"
 ---
 
-## Contribute!
-
 ### Code and Documentation
 xlwings is hosted on [GitHub][]. Fork it and submit a pull request!
 
