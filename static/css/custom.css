@@ -1,11 +1,12 @@
 /*This file contains styles used on all pages*/
 
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:400,900);
 @import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
 
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #f1f1f1;
-  padding-top: 55px;
+  padding-top: 40px;
 }
 
 /* Narrow width of main container on desktop */
@@ -42,7 +43,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Make embeded YouTube video responsive */
@@ -84,6 +85,22 @@ h6,
 .navbar-default .navbar-brand:focus {
   color: #e26901;
   background-color: transparent;
+}
+
+/*Height navbar*/
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:12px !important;
+    padding-bottom:0 !important;
+    height: 45px;
+}
+.navbar {min-height:45px !important;}
+
+@media (max-width: 767px) {
+  .navbar-header > button.navbar-toggle {
+    line-height: 20px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 }
 
 /* Sticky footer styles */
