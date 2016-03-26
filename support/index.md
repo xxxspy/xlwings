@@ -3,9 +3,15 @@ layout: page
 title: "Support"
 ---
 
+### Errors/Bugs
+
+Please submit error/bug reports directly on the GitHub [issues][] page.
+
+
 ### Community support
 
-The suggested way to get help is by searching/asking a question on [StackOverflow][]. Tag questions with the `xlwings` tag.
+For questions that are not bug reports, the suggested way to get help is by searching/asking a question on [StackOverflow][].
+Tag questions with the `xlwings` tag.
 
 ### Professional support
 
@@ -16,3 +22,4 @@ need help for using xlwings at your organization.
 
 [Zoomer Analytics]: http://zoomeranalytics.com
 [StackOverflow]: http://stackoverflow.com/
+[issues]: https://github.com/ZoomerAnalytics/xlwings/issues
