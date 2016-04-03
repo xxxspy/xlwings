@@ -21,7 +21,7 @@ box: |
 
 ## Replace your VBA code with Python, a powerful yet easy-to-use programming language that is highly suited for numerical analysis. Supports Windows & Mac!
 
-#### Latest Release v0.7.0 (March 4, 2016): New converters: e.g. use DataFrames from UDFs and Range objects! see [release notes][] for details.
+#### Latest Release v0.7.1 (April 3, 2016): Support for VBA macros and optional UDF arguments and much more! see [release notes][] for details.
 
 [release notes]: http://docs.xlwings.org/en/stable/whatsnew.html
 [watch!]: https://twitter.com/ZoomerAnalytics/status/664159348822835200
