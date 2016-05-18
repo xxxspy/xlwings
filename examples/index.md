@@ -18,7 +18,7 @@ title: "Examples"
 This is the simplest possible example demonstrating the calculation of the Fibonacci sequence.
 
 * **Lite (Win & Mac):** [fibonacci.zip][] (41 KB) - Dependencies: Python, xlwings
-* **Standalone (Win):** [fibonacci_standalone.zip][] (14.6 MB)
+* **Standalone (Win):** [fibonacci_standalone.zip][] 7.1 MB)
 
 [fibonacci.zip]: https://bitbucket.org/zoomeranalytics/xlwings_examples/downloads/fibonacci.zip
 [fibonacci_standalone.zip]: https://bitbucket.org/zoomeranalytics/xlwings_examples/downloads/fibonacci_standalone.zip
