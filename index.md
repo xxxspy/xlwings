@@ -21,19 +21,9 @@ box: |
 
 ## Replace your VBA code with Python, a powerful yet easy-to-use programming language that is highly suited for numerical analysis. Supports Windows & Mac!
 
-#### Latest Release v0.7.2 (May 18, 2016): This is a bug fix release, see [release notes][] for details.
+#### Latest Release v0.9.0 (Aug 2, 2016): This is a complete rewrite, make sure to check [release notes][] and [migration guide][] for details.
 
 [release notes]: http://docs.xlwings.org/en/stable/whatsnew.html
-[watch!]: https://twitter.com/ZoomerAnalytics/status/664159348822835200
+[migration guide]: http://docs.xlwings.org/en/stable/migrate_to_0.9.html
 
-<div class="row">
-  <div class="col-lg-3">
-  </div>
-    <div class="col-lg-6">
-      <div class="video-container">
-<iframe src="//fast.wistia.net/embed/iframe/fb3pft6wdu?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="400"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
-      </div>
-    </div>
-</div>
 
-**Note**: The video has been made for v0.1.0 and is now pretty much outdated, see [here](/videos).

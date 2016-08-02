@@ -9,7 +9,7 @@ title: "Examples"
 2. Extract the zip file (Windows: Right-Click > Extract All... > Extract / Mac: Double-click the zip-file)
 3. Open the Spreadsheet in the unzipped folder
 
-**Note**: Lite examples require a Python installation with xlwings >=v0.7.1. Standalone versions currently only run on Windows.
+**Note**: Lite examples require a Python installation with xlwings >=v0.9.0. Standalone versions currently only run on Windows.
 
 ### Downloads
 
@@ -65,7 +65,7 @@ Please follow this [blogpost][] that guides through the example in detail!
 
 ### Lite Versions
 
-These versions are small in size but require an installation of Python with **xlwings >=v0.7.1**. We
+These versions are small in size but require an installation of Python with **xlwings >=v0.9.0**. We
 recommend to install the [Anaconda distribution](https://store.continuum.io/cshop/anaconda/) as it already
 contains all the packages used in the examples, including xlwings, pywin32, numpy, scipy and pandas.
 
